@@ -168,7 +168,7 @@ hr.small {
     padding: 50px 0;
 }
 
-/* Services */
+/* Skills */
 
 .services {
     padding: 50px 0;
@@ -185,11 +185,11 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    background: url(../img/callout.jpg) no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background: url(../img/eng.jpeg) no-repeat center center scroll;
+    -webkit-background-size: 75%;
+    -moz-background-size: 75%;
+    background-size: 75%;
+    -o-background-size: 75%;
 }
 
 /* Portfolio */
@@ -204,7 +204,7 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
-}
+}file:///C:/Users/L%C3%A9o/Documents/GitHub/startbootstrap-stylish-portfolio/index.html#
 .img-reduce{
     height: 300px;
     width: auto;
